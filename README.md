@@ -10,7 +10,7 @@ In this bootstrap challenge you are tasked to replicate the web page shown in th
 Advanced Frontend Web Development | Cohort 1
 
 ## Team Members
-[View Group 9 Contribution Tracker] (./BSE_Group_Assignments_Task_Sheet_[Advanced_Frontend_Web_Development_Bootstrap-Activity_Cohort 1_Team9].pdf)
+[View Group 9 Contribution Tracker](BSE%20Group%20Assignments%20_%20Task%20Sheet_%5BAdvanced%20Frontend%20Web%20Development_Bootstrap-Activity_Cohort%201_Team9%5D.pdf)
 
 
 Mufaro Victoria Kunze
